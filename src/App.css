@@ -1,0 +1,23 @@
+.row {
+  display: flex;
+}
+
+.box {
+  object-fit: cover;
+  width: 50px;
+  height: 50px;
+  overflow: hidden;
+  border-width: 2px;
+}
+
+.black {
+  background-color: black;
+}
+
+.white {
+  background-color: ghostwhite;
+  border-color: rgba(0, 0, 0, 0.226);
+  border-width: 2px;
+
+}
+
